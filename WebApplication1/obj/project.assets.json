@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\work\\WebApplication1\\CustomerData.csproj",
+      "projectUniqueName": "C:\\repos\\MVC\\WebApplication1\\CustomerData.csproj",
       "projectName": "CustomerData",
-      "projectPath": "C:\\work\\WebApplication1\\CustomerData.csproj",
+      "projectPath": "C:\\repos\\MVC\\WebApplication1\\CustomerData.csproj",
       "packagesPath": "C:\\Users\\srini\\.nuget\\packages\\",
-      "outputPath": "C:\\work\\WebApplication1\\obj\\",
+      "outputPath": "C:\\repos\\MVC\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\srini\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OBkSh5YYl6HOjBmkzBnaDKFq1PmGg+aIAyyS+yrm/HSN/sp4QAEj4fs1nC7RY0XEJfxoC2xs/WZb8CY+bP0/aA==",
+  "dgSpecHash": "JPr4E+FAZnTgUeL4d09tJuVEtmVMiHVMabBoPbV9Q77GQe2fB/kFS4HTjhqTzLg7+64u53sBpQYOJAAMm/7CHA==",
   "success": true,
-  "projectFilePath": "C:\\work\\WebApplication1\\CustomerData.csproj",
+  "projectFilePath": "C:\\repos\\MVC\\WebApplication1\\CustomerData.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
