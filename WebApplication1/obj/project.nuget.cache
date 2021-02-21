@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JPr4E+FAZnTgUeL4d09tJuVEtmVMiHVMabBoPbV9Q77GQe2fB/kFS4HTjhqTzLg7+64u53sBpQYOJAAMm/7CHA==",
+  "dgSpecHash": "QTncpZKjAVX2HjIW7wwwDpCPTZLtedo/Sh7Y9Ay9Mw882Zpd6dNxU+/QWN6gLUPHk8qow4H2WTAqvFK+cC+Jsg==",
   "success": true,
   "projectFilePath": "C:\\repos\\MVC\\WebApplication1\\CustomerData.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\srini\\.nuget\\packages\\microsoft.applicationinsights\\2.16.0\\microsoft.applicationinsights.2.16.0.nupkg.sha512",
+    "C:\\Users\\srini\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
